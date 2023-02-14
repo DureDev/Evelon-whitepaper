@@ -1,8 +1,8 @@
 # Introduction
+![](Group1494.svg)
 !!! :zap: Getting Started :zap:
 We recommend you to read our whitepaper and learn more about our mission, vission and features. The whitepaper will be updated regularly.
 !!!
-![](Group1494.svg)
 Evelon is a no code platform that allows you to create and deploy dynamic NFTs with ease. This project is a game changer in the world of NFTs and image generation. Evelon uses AI to generate high-quality images, making it possible to create NFTs with unique visuals that are both dynamic and engaging.
 
 NFTs, or non-fungible tokens, are digital assets that represent ownership of a unique item or piece of content. They have become increasingly popular in recent years due to their ability to be traded, bought and sold like any other asset. The rise of NFTs has created a new market for digital art, collectibles and even virtual real estate. However, the process of creating and deploying NFTs can be complex and time-consuming, especially for those without technical expertise.
