@@ -1,3 +1,6 @@
+---
+order: 45
+---
 # Revenue streams
 Evelon has a unique revenue model that ensures steady streams of income, regardless of the market condition. The platform has seven different income streams, including recurring and one-time revenue sources, which provide a diverse mix of revenue to support the platform's growth and development.
 

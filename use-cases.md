@@ -1,5 +1,5 @@
 ---
-order: 45
+order: 46
 ---
 # Use cases
 Dynamic NFTs can change their properties or behavior in response to events. Evelon opens up a whole new world of possibilities for how NFTs can be used, beyond the traditional model of being a one-time asset that cannot be changed. Let's explore some of the key use cases for dynamic NFTs and showcase examples from various industries.

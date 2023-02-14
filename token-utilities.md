@@ -1,5 +1,5 @@
 ---
-order: 46
+order: 44
 ---
 # Token utilities
 The utilities are designed to offer a seamless and easy-to-use experience for users, with a wide range of benefits, such as discounts, long-term rewards, and much more. Let’s take a closer look at the different token utilities offered by Evelon.

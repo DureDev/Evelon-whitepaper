@@ -1,3 +1,6 @@
+---
+order: 40
+---
 # Development roadmap
 !!! Proof-of-Concept
 We developed a proof-of-concept on testnet. For instance, minting NFTs and AI integrations have been deployed. Book a demo with us.
