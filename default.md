@@ -1,5 +1,5 @@
 # Introduction
-![](Group1494.svg)
+![](welcome-banner.png)
 !!! :zap: Getting Started :zap:
 We recommend you to read our whitepaper and learn more about our mission, vission and features. The whitepaper will be updated regularly.
 !!!
