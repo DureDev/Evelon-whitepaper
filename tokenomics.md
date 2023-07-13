@@ -26,7 +26,7 @@ Allocation   | Token | Price | Hard cap | Vesting
 IEO | 1,625,000.00 | $0,06 | $97,500 | 100% at TGE			
 IDO | 1,625,000.00 | $0,06 | $405,000| 20% at TGE, 4 Months vesting				
 Private round | 1,625,000.00 | $0,03 | $873,750 | 10% at TGE, 1 Month Lock-up, 9 Months vesting				
-Seed/Angel round | 1,625,000.00 | $0,0175 | $262,500 | 6% at TGE, 1 Month Lock-up, 14 Months vesting				
+Seed/Angel round | 1,625,000.00 | $0,0175 | $262,500 | 12 Months vesting	
 Total | 52,500,000.00 | | $1,638,750
 Total Supply | 250.000.000
 Initial Circulating Supply | 6,787,500 (Maximum)
