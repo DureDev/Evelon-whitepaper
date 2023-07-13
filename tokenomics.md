@@ -9,7 +9,7 @@ Allocation   | Percent | Token | Vesting
 IEO | 0.65% | 1,625,000.00 | 100% at TGE
 IDO | 2.7% | 6,750,000.00 | 20% at TGE, 4 Months vesting	
 Private round | 11.65% | 29,125,000.00 | 10% at TGE, 1 Month Lock-up, 9 Months vesting	
-Seed/Angel round | 6% | 15,000,000.00 | 6% at TGE, 1 Month Lock-up, 14 Months vesting	
+Seed/Angel round | 6% | 15,000,000.00 | 12 Months vesting
 Advisor | 5% | 12,500,000.00 | 1 Year cliff, 3 Years vesting	
 Team | 12% | 30,000,000.00 | 1 Year cliff, 5 Years vesting	
 Treasury | 20% | 50,000,000.00 | 5 Years vesting	
