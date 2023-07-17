@@ -4,7 +4,6 @@
 First, download the NPM package and import it in your app. You can import the package by adding the following lines:
 ``` js
 const { EvelonSDK } = require("evelon");
-const fs = require("fs/promises");
 ```
 
 As a user, you need to `authenticate` yourself and set the `chainid`. Add a config to your app:
