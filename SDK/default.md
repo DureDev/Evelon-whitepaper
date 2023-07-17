@@ -1,7 +1,4 @@
 # SDK
-!!! Under development
-The SDK is currently under development and only available to partners and beta testers.
-!!!
 
 By using our SDKs, developers can streamline their workflow, reducing the time spent on writing boilerplate code and more on creating unique functionalities and experiences for their users. The SDKs have been designed with the developer in mind, providing clear, concise, and well-documented code that is easy to understand and implement.
 
