@@ -7,10 +7,10 @@ const { EvelonSDK } = require("evelon");
 const fs = require("fs/promises");
 ```
 
-As a user, you need to `authenticate` yourself, set the `chainid` and `contract address`. Add a config to your app:
+As a user, you need to `authenticate` yourself and set the `chainid`. Add a config to your app:
 ``` js
 const config = {
-  apikey: "test_ev_cd153f41193e692ec0434ecb52a9c5a1560d7e13",
+  apikey: "test_ev_cd153f41193e692ec0434ecb52a9c5a1560d7e13", // This should be your API key (copy it from your profile page)
   chainId: 1287,
 };
 ```
