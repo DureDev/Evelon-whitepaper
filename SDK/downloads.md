@@ -1,6 +1,6 @@
 # Downloads
-Documentation will be published when we release the public version.
+The documentation can be found in our repository (https://github.com/evelonapp/SDK/blob/main/README.md).
 
-The following SDKs are currently under development:
-[!ref target="blank" text="React.js SDK (coming soon)"](https://evelon.app)
-[!ref target="blank" text="Next.js SDK (coming soon)"](https://evelon.app)
+The repository contains a JavaScript that can be used as guideline to implement our SDK in your app.
+[!ref target="blank" text="SDK repository"](https://github.com/evelonapp/SDK)
+[!ref target="blank" text="SDK NPM (coming soon)"](https://evelon.app)
