@@ -3,4 +3,4 @@ The documentation can be found in our repository (https://github.com/evelonapp/S
 
 The repository contains a JavaScript that can be used as guideline to implement our SDK in your app.
 [!ref target="blank" text="SDK repository"](https://github.com/evelonapp/SDK)
-[!ref target="blank" text="SDK NPM (coming soon)"](https://evelon.app)
+[!ref target="blank" text="SDK NPM package"](https://www.npmjs.com/package/evelonsdk?activeTab=readme)
