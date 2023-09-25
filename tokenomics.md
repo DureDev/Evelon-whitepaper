@@ -2,11 +2,13 @@
 order: 43
 ---
 # Tokenomics
+!!! WIP
+The final tokenomics will be published in the first week of Oct. We refined the tokenomics slightly to meet with requirements from launchpads and exchanges.
+!!!
 Tokenomics determine two things about our token economy – the incentives that set out how the token will be distributed and the utility of the tokens that influence its demand. A large portion (from 62%) will be used for marketing and governance utilities reducing the circulating supply in an automated way.
 
 Allocation   | Percent | Token | Vesting
 ---    | --- | --- | ---
-IEO | 0.65% | 1,625,000.00 | 100% at TGE
 IDO | 2.7% | 6,750,000.00 | 20% at TGE, 4 Months vesting	
 Private round | 11.65% | 29,125,000.00 | 10% at TGE, 1 Month Lock-up, 9 Months vesting	
 Seed/Angel round | 6% | 15,000,000.00 | 12 Months vesting
@@ -22,8 +24,7 @@ Total | 100%
 ## Token sale & Valuation
 
 Allocation   | Token | Price | Hard cap | Vesting
----    | --- | --- | --- | ---
-IEO | 1,625,000.00 | $0,06 | $97,500 | 100% at TGE			
+---    | --- | --- | --- | ---		
 IDO | 1,625,000.00 | $0,06 | $405,000| 20% at TGE, 4 Months vesting				
 Private round | 1,625,000.00 | $0,03 | $873,750 | 10% at TGE, 1 Month Lock-up, 9 Months vesting				
 Seed/Angel round | 1,625,000.00 | $0,0175 | $262,500 | 12 Months vesting	
